@@ -1,6 +1,4 @@
-# cdn
-
-利用 jsDelivr 免费CDN托管静态资源
+# 利用 jsDelivr 免费CDN托管静态资源
 
 国内的免费 CDN 不少，但需要备案
 
