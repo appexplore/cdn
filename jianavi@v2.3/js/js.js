@@ -267,7 +267,7 @@ $('.Select-box-2 li').click(function () {
 		_tihs = 'https://www.bing.com/search';
 		_name = 'q';
 	} else if (_tihs == 'miji_s') {
-		_tihs = 'https://www.dogedoge.com/results';
+		_tihs = 'https://duckduckgo.com/';
 		_name = 'q';
 	} else {
 		_tihs = 'https://www.baidu.com/s';
